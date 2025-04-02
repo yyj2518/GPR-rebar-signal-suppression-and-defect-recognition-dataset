@@ -1,0 +1,26 @@
+<annotation>
+	<folder>void</folder>
+	<filename>481.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\123\void\481.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>875</width>
+		<height>656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>void</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>258</ymin>
+			<xmax>420</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>
